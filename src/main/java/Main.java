@@ -33,7 +33,7 @@ public class Main {
     //        System.out.println(Problema14.maxOccurenceCharacter(s)+"");
 
 ArrayList<String> s=new ArrayList<>(List.of("jkskjk","kskjkjkj","kajkkkj kjd sjkk","jkjjj"));
-         for(String as: Problema15.sortArray1(s)){
+         for(String as: Problema15.sortArray2(s)){
              System.out.println(as);
          }
     }
