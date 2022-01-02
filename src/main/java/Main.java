@@ -10,9 +10,14 @@ import problema15.Problema15;
 import problema17.Problema17;
 import problema2.Problema2;
 import problema21.Problema21;
+import problema22.Problema22;
+import problema23.Problema23;
+import problema24.Problema24;
 import problema6.Problema6;
 import problema7.Problema7;
 import Problema12.*;
+
+import java.sql.Array;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
@@ -50,9 +55,9 @@ public class Main {
 //        s.addString("kllklkklelkklnn  wklwkek");
 //        System.out.println(s.getSir());
       // System.out.println(Problema20.replicateStringV3("hoi"));
-        System.out.println(Problema21.stergeSpatiiV1(" llk l lkl "));
-        String v=Problema21.stergeSpatiiV3("  klk lkkl  ");
-        System.out.println(v.length());
-
+//        System.out.println(Problema21.stergeSpatiiV1(" llk l lkl "));
+//        String v=Problema21.stergeSpatiiV3("  klk lkkl  ");
+//        System.out.println(v.length());
+        Problema24.transform("world");
     }
 }
